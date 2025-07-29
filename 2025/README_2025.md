@@ -16,9 +16,10 @@ Every weekday I add a small notebook or update — check the commit graph 😊.
 ## Folder structure
 ```
 2025/
-├─ unit02_stat_r2025.ipynb ← descriptive statistics refresh
-├─ unit02_viz_r2025.ipynb ← modern data‑viz (Matplotlib ≥3.8)
-├─ unit03_ml_basic_r2025.ipynb ← kNN / DecisionTree recap
+├─ unit02_stat_r2025.ipynb
+├─ unit02_viz_r2025.ipynb 
+├─ unit03_ml_basic_r2025.ipynb
+├─ unit04_ml_basic_r2025.ipynb
 ├─ fastai/
 │ └─ lesson1_catdog.ipynb ← fast.ai Lesson 1 (transfer learning)
 └─ README_2025.md ← you are here
